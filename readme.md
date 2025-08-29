@@ -5,9 +5,9 @@
 -   **getElementById** → Finds one element using its id. Since id is
     unique, it will only return that single element.
 
--   **getElementsByClassName** → Finds all elements that have the same
+-   **getElementsByClassName** → Finds all element that have the same
     class name. if new elements are
-    added with that class, list updates automatically.
+    added with that class, list update automatically.
 
 -   **querySelector** → Finds the first element that matches a CSS
     selector (like #id, .class).
